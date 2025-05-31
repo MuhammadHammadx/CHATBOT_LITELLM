@@ -1,0 +1,11 @@
+chainlit:
+  # Name displayed in the UI
+  name: "Palm-2 Chatbot"
+  # Description displayed in the UI
+  description: "Intelligent chatbot powered by Google Palm-2 via OpenRouter"
+  # Whether to enable telemetry. Default is true.
+  telemetry: false
+  # Set the theme of the UI - 'light', 'dark' or 'system'
+  theme: system
+  # Show the prompt input as a textarea (default is input)
+  input_type: textarea 
